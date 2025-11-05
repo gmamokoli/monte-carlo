@@ -3,9 +3,9 @@ Generate random points in the unit square [0,1]×[0,1] and count how many fall i
 
 ![Monte Carlo Simulation](results/convergence.png)
 
-\[
-\pi \approx 4 \times \frac{\text{points in circle}}{\text{total points}}
-\]
+The approximation of π is given by:
+
+π ≈ 4 × $(\text{points in circle}) / (\text{total points})$
 
 ## ⚙️ Features
 - Written in **C++17**
