@@ -13,8 +13,6 @@ The approximation of π is given by:
 - Uses **std::mt19937** random generator per thread (safe and independent)
 - Measures **execution time** and **speedup**
 
-![Performance Comparison](images/performance_comparison.png)
-
 ## 🧮 Compilation & Execution
 
 ```bash
